@@ -1,3 +1,5 @@
 #Demo Project README
 
-THis is a simple readme file
+This is a simple readme file
+
+## HEADING 2
